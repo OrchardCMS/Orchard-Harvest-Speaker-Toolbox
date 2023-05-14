@@ -19,7 +19,7 @@ What you as a speaker at the Orchard Harvest conference need to give an awesome 
 
 ## Presentation template
 
-We have prepared a presentation template for you. You can use this if you don't know how to start, or if you'd like to match the event's design. However, if you're already using your own template, you don't need copy everything over if you don't want to.
+We have prepared a presentation template for you, see the repository root. You can use this if you don't know how to start, or if you'd like to match the event's design. However, if you're already using your own template, you don't need copy everything over if you don't want to.
 
 ## Checklist just before your talk
 
