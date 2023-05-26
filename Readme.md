@@ -9,6 +9,7 @@ What you as a speaker at the Orchard Harvest conference need to give an awesome 
   - [11 Top Tips for a Successful Technical Presentation](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx)
   - [Tips for Preparing for a Technical Presentation](http://www.hanselman.com/blog/TipsForPreparingForATechnicalPresentation.aspx)
   - [The 2020 Guide to Creating Quality Technical Screencasts, Presentations, and Remote Meetings](https://www.hanselman.com/blog/The2020GuideToCreatingQualityTechnicalScreencastsPresentationsAndRemoteMeetings.aspx)
+- Prefer live demos over slides.
 - Sessions will be recorded and published, but attendees may want to get in touch with you or check out links you've shown earlier. So, please prepare to share such info in the chat immediately before or after your talk. Include e.g. your contact details e-mail address, social and GitHub profiles, links for further reading.
 - Make sure that you can use a stable and fast internet connection.
 - If possible, please prepare to turn on your webcam too.
